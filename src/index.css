@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Google+Sans+Code:ital,wght@0,300..800;1,300..800&display=swap');
+
+body, .css-1p3m7a8-multiValue {
+    font-family: 'Google Sans Code', monospace !important;
+    background-color: #D1D8BE !important;
+}
+
+h1, .form-control, .form-label, .css-1cfo1cf, .css-9x5mqu, .modal-header, .btn-close, .container, .card-body .fs-5, .css-9jq23d, .css-1p3m7a8-multiValue, [id^="react-select-"] {
+    color: #5A827E !important;
+}
+
+.search-status-text, p {
+    color: #456865;
+}
+
+p {
+    font-size: 1.1em;
+    line-height: 1.7;
+}
+
+.css-d7l1ni-option {
+    background-color: rgba(167, 193, 168, 0.4) !important;
+}
+
+.modal-header {
+    border-color: #A7C1A8 !important;;
+}
+
+.card, .form-control, .css-13cymwt-control, .css-1nmdiq5-menu, .css-hlgwow, .css-1wy0on6, .css-1dyz3mf {
+    background-color: #EEEFE0 !important;
+}
+
+.card {
+    border: none !important;
+}
+
+.card-body .fs-5, .css-9jq23d, .css-1p3m7a8-multiValue {
+    font-weight: bold !important;
+}
+
+.modal-content {
+    background-color: #D1D8BE !important;
+}
+
+.form-control:focus, .css-t3ipsp-control, .btn-close:focus {
+  border-color: #819A91 !important;
+  box-shadow: 0 0 0 0.25rem rgba(90, 130, 126, 0.2) !important;
+}
+
+::selection {
+  background-color: #5A827E;
+  color: #FFF;
+}
+
+:root {
+  --bs-primary-rgb: 90, 130, 126 !important;
+}
+
+.btn-outline-primary {
+  color: #5A827E !important;
+  border-color: #5A827E !important;
+  background-color: transparent !important;
+}
+
+.btn-outline-primary:hover,
+.btn-outline-primary:focus {
+  background-color: #4F726E !important;
+  border-color: #4F726E !important;
+  color: #EEEFE0 !important;
+}
+
+.btn-outline-primary:active,
+.btn-outline-primary.active,
+.show > .btn-outline-primary.dropdown-toggle {
+  background-color: #445F5C !important;
+  border-color: #445F5C !important;
+  color: #EEEFE0 !important;
+}
+
+.btn-outline-primary:disabled,
+.btn-outline-primary.disabled {
+  color: #A9BFBC !important;
+  border-color: #A9BFBC !important;
+  background-color: transparent !important;
+  opacity: 0.65;
+}
+
+.badge {
+    color: #EEEFE0 !important;
+}
+
+.wrisp-ascii, .tag-ascii {
+  width: 50%;
+}
+
+.not-found-ascii {
+  width: 30%;
+}
