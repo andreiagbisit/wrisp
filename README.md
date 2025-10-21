@@ -1,73 +1,62 @@
-# React + TypeScript + Vite
+<h1>📒 Wrisp</h1>
+<p>A sleek and minimal note-taking app built with React & TypeScript in a Vite environment.</p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<hr/>
 
-Currently, two official plugins are available:
+<h2>✨ Features</h2>
+<ul>
+  <li><strong>📝 Note Management:</strong> Create, edit, and delete notes seamlessly.</li>
+  <li><strong>#️⃣ Tag System:</strong> Add and manage multiple tags per note.</li>
+  <li><strong>🔍 Search:</strong> Instantly search notes and tags with smart filtering.</li>
+  <li><strong>💾 Persistent Storage:</strong> Uses browser storage to save your notes.</li>
+  <li><strong>📱 Responsive UI:</strong> Works smoothly across desktops and mobile devices.</li>
+</ul>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<hr/>
 
-## React Compiler
+<h2>🛠️ Core Technologies</h2>
+<table>
+  <tr><td><strong>⚛️ React</strong></td><td>19.1.1</td></tr>
+  <tr><td><strong>🚀 Vite</strong></td><td>7.1.7</td></tr>
+  <tr><td><strong>🎨 Bootstrap</strong></td><td>5.3.8</td></tr>
+  <tr><td><strong>🔤 TypeScript</strong></td><td>5.9.3</td></tr>
+  <tr><td><strong>🧭 React Router DOM</strong></td><td>7.9.4</td></tr>
+  <tr><td><strong>🔗 UUID & @types/uuid</strong></td><td>13.0.0</td></tr>
+  <tr><td><strong>🎛 React Select</strong></td><td>5.10.2</td></tr>
+  <tr><td><strong>🧩 React Markdown</strong></td><td>10.1.0</td></tr>
+  <tr><td><strong>📦 React Icons</strong></td><td>5.5.0</td></tr>
+</table>
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+<hr/>
 
-## Expanding the ESLint configuration
+<h2>📦 Installation</h2>
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+<h3>✅ Prerequisites</h3>
+<ul>
+  <li>Ensure you have <strong>Node.js</strong> installed</li>
+</ul>
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+<p>
+  🔗 Download Node.js (Windows Installer): 
+  <a href="https://nodejs.org/en/download" target="_blank">https://nodejs.org/en/download</a>
+</p>
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+<h3>▶️ Getting Started</h3>
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+<pre>
+  <code>
+  # Clone this repository
+  git clone &lt;your-repo-url&gt;
+  
+  # Navigate into the project directory
+  cd wrisp
+  
+  # Install dependencies
+  npm install
+  
+  # Start the development server
+  npm run dev
+  </code>
+</pre>
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
-
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
-
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+<hr/>
