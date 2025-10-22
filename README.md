@@ -20,8 +20,8 @@
   <tr><td><strong>🚀 Vite</strong></td><td>7.1.7</td></tr>
   <tr><td><strong>🎨 Bootstrap</strong></td><td>5.3.8</td></tr>
   <tr><td><strong>🔤 TypeScript</strong></td><td>5.9.3</td></tr>
-  <tr><td><strong>🧭 React Router DOM</strong></td><td>7.9.4</td></tr>
-  <tr><td><strong>🔗 UUID & @types/uuid</strong></td><td>13.0.0</td></tr>
+  <tr><td><strong>🧭 react-router-dom</strong></td><td>7.9.4</td></tr>
+  <tr><td><strong>🔗 uuid, @types/uuid (UUID v4)</strong></td><td>13.0.0</td></tr>
   <tr><td><strong>🎛 React Select</strong></td><td>5.10.2</td></tr>
   <tr><td><strong>🧩 React Markdown</strong></td><td>10.1.0</td></tr>
   <tr><td><strong>📦 React Icons</strong></td><td>5.5.0</td></tr>
