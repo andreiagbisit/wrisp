@@ -9,7 +9,7 @@
   <li><strong>#️⃣ Tag System:</strong> Add and manage multiple tags per note.</li>
   <li><strong>🔍 Search:</strong> Instantly search notes and tags with smart filtering.</li>
   <li><strong>💾 Local Storage Utilization:</strong> Uses browser storage to save your notes.</li>
-  <li><strong>📱 Responsive UI:</strong> Works smoothly across desktops and mobile devices.</li>
+  <li><strong>📱 Responsive UI:</strong> Works smoothly across desktop and mobile device layouts.</li>
 </ul>
 
 <hr/>
