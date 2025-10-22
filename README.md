@@ -1,5 +1,11 @@
 <h1>📒 Wrisp</h1>
-<p>A sleek and minimal note-taking app built with React & TypeScript in a Vite environment.</p>
+<p>
+  A sleek and minimal note-taking app built with React & TypeScript in a Vite environment. 
+  This is based on a project demonstrated on the YouTube video 
+  <a href="https://youtu.be/j898RGRw0b4" target="_blank" rel="noopener noreferrer">
+    The Perfect Advanced React/TypeScript Project - Markdown Supported Note Taking With Categories
+  </a> by <strong>Web Dev Simplified</strong>.
+</p>
 
 <hr/>
 
