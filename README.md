@@ -22,6 +22,8 @@
 
 <h2>🛠️ Core Technologies</h2>
 <table>
+  <tr><th><strong>Name</strong></th><th><strong>Version</strong></th></tr>
+  
   <tr><td><strong>React</strong></td><td>19.1.1</td></tr>
   <tr><td><strong>Vite</strong></td><td>7.1.7</td></tr>
   <tr><td><strong>Bootstrap</strong></td><td>5.3.8</td></tr>
