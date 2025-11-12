@@ -7,7 +7,7 @@
   </a> by <strong>Web Dev Simplified</strong>.
 </p>
 
-<hr/>
+<hr>
 
 <h2>Features</h2>
 <ul>
@@ -18,7 +18,7 @@
   <li><strong>Responsive UI</strong> - Works smoothly across desktop and mobile device layouts.</li>
 </ul>
 
-<hr/>
+<hr>
 
 <h2>Tech Stack</h2>
 <table>
@@ -35,7 +35,7 @@
   <tr><td><strong>React Icons</strong></td><td>5.5.0</td></tr>
 </table>
 
-<hr/>
+<hr>
 
 <h2>Installation</h2>
 
@@ -67,4 +67,4 @@
   </code>
 </pre>
 
-<hr/>
+<hr>
