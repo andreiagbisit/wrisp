@@ -1,6 +1,6 @@
 <h1>Wrisp</h1>
 <p>
-  A sleek and minimal note-taking app built with <strong>React</strong> & <strong>TypeScript</strong> in a <strong>Vite</strong> environment. 
+  A note-taking app built with <strong>React</strong> & <strong>TypeScript</strong> in a <strong>Vite</strong> environment. 
   This is based on a project demonstrated on the YouTube video 
   <a href="https://youtu.be/j898RGRw0b4" target="_blank" rel="noopener noreferrer">
     The Perfect Advanced React/TypeScript Project - Markdown Supported Note Taking With Categories
@@ -11,10 +11,10 @@
 
 <h2>Features</h2>
 <ul>
-  <li><strong>Note Management</strong> - Create, edit, and delete notes seamlessly.</li>
-  <li><strong>Tag System</strong> - Add and manage multiple tags per note.</li>
-  <li><strong>Search</strong> - Instantly search notes and tags with smart filtering.</li>
-  <li><strong>Local Storage Utilization</strong> - Uses browser storage to save your notes.</li>
+  <li><strong>Note management</strong> - Create, edit, and delete notes seamlessly.</li>
+  <li><strong>Tag system</strong> - Add and manage multiple tags per note.</li>
+  <li><strong>Search-based filtering</strong> - Instantly filter notes with search keywords.</li>
+  <li><strong>Local storage utilization</strong> - Uses browser storage to save your notes.</li>
   <li><strong>Responsive UI</strong> - Works smoothly across desktop and mobile device layouts.</li>
 </ul>
 
