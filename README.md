@@ -80,6 +80,10 @@
 
 <h3>Getting Started</h3>
 
+<ul>
+  <li><b>Running the project locally</b></li>
+</ul>
+
 <pre><code># Clone this repository
 git clone https://github.com/andreiagbisit/wrisp.git
   
