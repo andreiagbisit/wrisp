@@ -1,10 +1,6 @@
 <h1>Wrisp</h1>
 <p>
-  A note-taking app built with <b>React</b> and <b>TypeScript</b> in a <b>Vite</b> environment. 
-  This is based on a project demonstrated on the YouTube video 
-  <a href="https://youtu.be/j898RGRw0b4" target="_blank" rel="noopener noreferrer">
-    The Perfect Advanced React/TypeScript Project - Markdown Supported Note Taking With Categories
-  </a> by <b>Web Dev Simplified</b>.
+  A note-taking app built with <b>React</b> and <b>TypeScript</b> in a <b>Vite</b> environment.
 </p>
 
 <hr>
@@ -73,19 +69,19 @@
 <h2>Installation</h2>
 
 <h3>Prerequisites</h3>
-<ul>
-  <li>Ensure you have <b>Node.js</b> installed</li>
-</ul>
 
-<p>
-  Download Node.js (Windows Installer): 
-  <a href="https://nodejs.org/en/download" target="_blank">Node.js — Download Node.js®</a>
-</p>
+<ul>
+  <li>
+    Ensure you have <b>Node.js</b> installed.<br>
+    Download Node.js (Windows Installer):<br>
+    <a href="https://nodejs.org/en/download" target="_blank">Node.js — Download Node.js®</a>
+  </li>
+</ul>
 
 <h3>Getting Started</h3>
 
 <pre><code># Clone this repository
-git clone &lt;your-repo-url&gt;
+git clone https://github.com/andreiagbisit/wrisp.git
   
 # Navigate into the project directory
 cd wrisp
@@ -95,5 +91,19 @@ npm install
   
 # Start the development server
 npm run dev</code></pre>
+
+<hr>
+
+<h2>Credits</h2>
+<ul>
+  <li>
+  This is based on a project demonstrated on the YouTube video 
+  <a href="https://youtu.be/j898RGRw0b4" target="_blank" rel="noopener noreferrer">
+    The Perfect Advanced React/TypeScript Project - Markdown Supported Note Taking With Categories
+  </a> by <b>Web Dev Simplified</b>.<br>
+
+  <i>Certain features in this take of the project have been improved upon.</i>
+  </li>
+</ul>
 
 <hr>
